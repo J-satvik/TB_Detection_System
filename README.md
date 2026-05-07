@@ -14,6 +14,10 @@ NexTB is a comprehensive AI-powered Tuberculosis detection system. It features a
 
 If you have just cloned this repository, you will need to set up both the **Backend API** and the **Frontend Web App**.
 
+## Dataset
+Full dataset download:
+https://drive.google.com/file/d/1Mfe-U-pKej5b6jsUacfu1BEOH_fxu6ht/view?usp=sharing
+
 ### 1. Backend Setup (Python)
 
 The backend handles the AI inference and data storage. You will need Python 3.9+ installed.
